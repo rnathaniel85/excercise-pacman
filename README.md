@@ -1,25 +1,26 @@
-#PacMen
+# PacMen
 </br>
+## PacMan Excercise
 <img src="/img/PacMan1.png" width= '300px'/>
 </br>
 </br>
-#Description
+# Description
 </br>
 This project utilizes buttons that creates and positions PacMen to enter the game. The PacMen floats on the screen and bounces off the windows to change directions. 
 </br>
 </br>
-#How To Run
+# How To Run
 Push the "Add PacMan" button to create a PacMan and use the "Play Game" button to move and to change the speed of the PacMan.
 </br>
 </br>
-#Roadmap
+# Roadmap
 </br>
 Planning on making the PacMan change directions once hitting wall and to eat pellets like the original game.
 </br>
 </br>
 </br>
 </br>
-MIT License
+# MIT License
 </br>
 </br>
 Copyright (c) 2021 rnathaniel85
