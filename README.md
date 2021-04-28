@@ -1,5 +1,5 @@
 # PacMen
-## PacMan Excercise
+## PacMan Exercise
 <img src="/img/PacMan1.png" width= '300px'/>
 
 # Description
