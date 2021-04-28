@@ -1,6 +1,6 @@
 #PacMen
 </br>
-<img src="PacMan2.png" width= '300px'/>
+<img src="/img/PacMan1.png" width= '300px'/>
 </br>
 </br>
 #Description
