@@ -1,9 +1,7 @@
 # PacMen
-</br>
 ## PacMan Excercise
 <img src="/img/PacMan1.png" width= '300px'/>
-</br>
-</br>
+
 # Description
 </br>
 This project utilizes buttons that creates and positions PacMen to enter the game. The PacMen floats on the screen and bounces off the windows to change directions. 
